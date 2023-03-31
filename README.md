@@ -1,6 +1,6 @@
 
 - О кста дарова я @romausnul
-- mamonov@mamon.host почта
+- rm@mamon.host почта
 ![download](https://user-images.githubusercontent.com/119739400/211413529-76c22f1c-ca77-4162-9352-7fabcdd62115.gif)
 
 C# love. Java
