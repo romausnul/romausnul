@@ -15,4 +15,3 @@ C# love. Java
 romausnul/romausnul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![2022-11-18_11-15-45](https://user-images.githubusercontent.com/119739400/234821654-1d476afc-8fd2-4925-b640-143b976a343c.png)
