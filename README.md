@@ -3,8 +3,11 @@
 
 ![download](https://user-images.githubusercontent.com/119739400/211413529-76c22f1c-ca77-4162-9352-7fabcdd62115.gif)
 
+👇👇👇МОЙ БЛОГ👇👇👇
+Мои будни https://github.com/romausnul/blog/issues/3
+Серваки https://github.com/romausnul/blog/issues/2
+Жизнь студента https://github.com/romausnul/blog/issues/1
 
-[README.md](https://github.com/romausnul/romausnul/files/11413193/README.md)
 
 
 
