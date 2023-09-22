@@ -7,7 +7,7 @@
 
 
 
-- rm@mamon.host почта
+- rm@mamon.fun почта
 C# love. Java
 <!---
 romausnul/romausnul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
